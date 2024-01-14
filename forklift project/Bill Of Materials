@@ -1,0 +1,61 @@
+//=======================================//
+//=======ForkLift project BOM============//
+//=======================================//
+
+
+
+//---batteries-----------
+
+4x lithium  ion batteries: rs/1000 
+1 holder: rs/120
+delivery: s/200
+.
+.
+//---drivetrain----------
+.
+1x lineFollower frame: rs1650/
+.
+.
+//---liftingMechanism----
+.
+.
+1x nema17Stepper: rs500/
+1x timing belt: rs500/
+1x idler pulley: rs500/
+1x ultrasound sensor: rs200/
+
+//---transport-----
+bykea: 260*2 (520)
+
+
+total:    1000 + 120 + 200 + 1650 + 500 + 500 + 500 + 200 + 520 
+	= rs4670/
+
+
+
+
+//----drivers-----
+
+2x l298N: rs1000/.
+
+
+//----bluetoothModule------
+
+hc05 module: rs1000/
+
+1 gluestick: rs80/
+
+//----micro-controller-----
+
+1 arduino uno: rs1500/
+
+2 sets of connecting wires(female-female & male-female): 2x170 = rs340/only
+
+
+
+
+net-total: 4670 + 1000 + 1000 + 80 + 1500 + 340
+	= 8590;
+
+
+							
